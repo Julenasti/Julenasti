@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![snake gif]https://github.com/Julenasti/Julenasti/blob/output/github-contribution-grid-snake.gif
+https://github.com/Julenasti/Julenasti/blob/output/github-contribution-grid-snake.gif
 
 <!--
 **Julenasti/Julenasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
