@@ -8,6 +8,8 @@ I don't like repetitive task so I'm a big fan of coding (mainly R).
 Apart from my PhD I'm currently having fun working on some cool R packages related to climate data and dendrochronology 📦
 [easyclimate](https://github.com/VeruGHub/easyclimate)
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/J_astigarraga.svg?style=social&label=%20%40J_astigarraga)](https://twitter.com/J_astigarraga)
+
 <!--
 **Julenasti/Julenasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
