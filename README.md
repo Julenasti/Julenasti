@@ -6,7 +6,7 @@ I'm Julen Astigarraga a PhD student at the University of Alcalá studying climat
 I mainly work with forest inventory data 📈, but I also love to go to the field and see what the trees can tell us. That's why I like dendrochronology.
 I don't like repetitive task so I'm a big fan of coding (mainly R).
 Apart from my PhD I'm currently having fun working on some cool R packages related to climate data and dendrochronology 📦
-![easyclimate](https://github.com/VeruGHub/easyclimate)
+[easyclimate](https://github.com/VeruGHub/easyclimate)
 
 <!--
 **Julenasti/Julenasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
