@@ -5,7 +5,7 @@
 I'm Julen a PhD student at the University of Alcalá (Madrid) studying climate change impacts on forests 🌳 * 🌤️
 I mainly work with forest inventory and climate data 📈
 I also love to go to the field and spend time observing nature trying to understand the natural history of the ecosystems ⛰️
-In this sense, I think dendrochronology is very useful and interesting 💍
+In this sense, I think dendrochronology is very useful and interesting 🌲💍
 I don't like repetitive task and that's why I'm a big fan of coding (mainly R) 👨‍💻
 Apart from my PhD I'm currently having fun working on some cool R packages related to climate data and dendrochronology 📦
 [easyclimate](https://github.com/VeruGHub/easyclimate)
