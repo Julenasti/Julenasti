@@ -9,6 +9,7 @@ In this sense, I think dendrochronology is very useful and interesting 🌲💍
 I don't like repetitive task and that's why I'm a big fan of coding (mainly R) 👨‍💻
 Apart from my PhD I'm currently having fun working on some cool R packages related to climate data and dendrochronology 📦
 [easyclimate](https://github.com/VeruGHub/easyclimate)
+Check also the Ecoinformática AEET website to see the monthly seminars we hold, notes related to ecoinformatics that we publish, etc. 🔍https://ecoinfaeet.github.io/website/ 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/J_astigarraga.svg?style=social&label=%20%40J_astigarraga)](https://twitter.com/J_astigarraga)
 
