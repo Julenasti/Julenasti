@@ -2,12 +2,11 @@
 
 ![snake gif](https://github.com/Julenasti/Julenasti/blob/output/github-contribution-grid-snake.gif)
 
-I'm Julen a PhD student at the University of Alcalá (Madrid) studying climate change impacts on forests 🌳 * 🌤️
+I'm Julen, an ecologist studying global change impacts on forests, mainly climate-related impacts at the University of Alcalá (Madrid) 🌳 * 🌤️
 I mainly work with forest inventory and climate data 📈
-I also love to go to the field and spend time observing nature trying to understand the natural history of the ecosystems ⛰️
-In this sense, I think dendrochronology is very useful and interesting 🌲💍
+I also love going into the field and spending time observing nature and collecting data to try to understand the natural history of ecosystems ⛰️
 I don't like repetitive task and that's why I'm a big fan of coding (mainly R) 👨‍💻
-Apart from my PhD I'm currently having fun working on some cool R packages related to climate data and dendrochronology 📦
+Apart from science, I'm currently having fun working on some cool R packages related to climate data and dendrochronology 📦
 [trini](https://github.com/Joacala/trini) & [easyclimate](https://github.com/VeruGHub/easyclimate)
 Check also the Ecoinformática AEET website to see the monthly seminars we hold, notes related to ecoinformatics that we publish, etc. 🔍https://ecoinfaeet.github.io/website/ 
 
