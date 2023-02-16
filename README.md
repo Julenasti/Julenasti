@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/Julenasti/Julenasti/blob/output/github-contribution-grid-snake.gif)
 
-I'm Julen, an ecologist studying global change impacts on forests, mainly climate-related impacts at the University of Alcalá (Madrid) 🌳 * 🌤️
+I'm Julen, an ecologist studying global change impacts on forest dynamics at the University of Alcalá (Madrid) 🌳 * 🌤️
 I mainly work with forest inventory and climate data 📈
 I also love going into the field and spending time observing nature and collecting data to try to understand the natural history of ecosystems ⛰️
 I don't like repetitive task and that's why I'm a big fan of coding (mainly R) 👨‍💻
