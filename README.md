@@ -6,7 +6,7 @@ I'm Julen, an ecologist studying global change impacts on forest dynamics at the
 I mainly work with forest inventory and climate data 📈
 I also love going into the field and spending time observing nature and collecting data to try to understand the natural history of ecosystems ⛰️
 I don't like repetitive task and that's why I'm a big fan of coding (mainly R) 👨‍💻
-Apart from science, I'm currently having fun working on some cool R packages related to climate data and dendrochronology 📦
+Apart from science, I'm currently having fun working on some cool R packages related to climate data and dendrochronology among others 📦
 [trini](https://github.com/Joacala/trini) & [easyclimate](https://github.com/VeruGHub/easyclimate)
 Check also the Ecoinformática AEET website to see the monthly seminars we hold, notes related to ecoinformatics that we publish, etc. 🔍https://ecoinfaeet.github.io/website/ 
 
