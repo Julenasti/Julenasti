@@ -1,19 +1,15 @@
 ### Hi there 👋
 
-I'm Julen, an ecologist studying global change impacts on forest dynamics at the University of Alcalá (Madrid) 🌳 * 🌤️
-I mainly work with forest inventory and climate data 📈
-I also love going into the field and spending time observing nature and collecting data to try to understand the natural history of ecosystems ⛰️
-I don't like repetitive task and that's why I'm a big fan of coding (mainly R) 👨‍💻
-Apart from science, I'm currently having fun working on some cool R packages related to climate data and dendrochronology among others 📦
-[trini](https://github.com/Joacala/trini) & [easyclimate](https://github.com/VeruGHub/easyclimate)
-Check also the Ecoinformática AEET website to see the monthly seminars we hold, notes related to ecoinformatics that we publish, etc. 🔍https://ecoinfaeet.github.io/website/ 
+Hi, I'm Julen, an ecologist studying the impacts of global change on forest dynamics at the University of Alcalá (Madrid) 🌳🌤️. 
+I primarily work as a computational ecologist, combining ecology and data science 🌳👨‍💻. However, I also love getting into the field to understand the natural history of ecosystems or just for fun ⛰️.
+I don't like repetitive task and I like solving puzzles, that's why I'm a big fan of coding (mainly in R) 👨‍💻.
+I believe that science should be open to everyone and here are some projects and courses I've been involved in that might be useful, with information available mainly in Spanish and sometimes in English:
+- Explore the ecoinformatics notes, seminars, and more from the [Ecoinformatics group of the Spanish Association of Terrestrial Ecology](https://ecoinfaeet.github.io/website/index.html)
+- Download climate data from [easyclimate](https://github.com/VeruGHub/easyclimate
+- Understand [Git and GitHub](https://github.com/Julenasti/intro_git-github)
+- Learn about [Functional Programming](https://github.com/Julenasti/intro_prog_fun). 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/J_astigarraga.svg?style=social&label=%20%40J_astigarraga)](https://twitter.com/J_astigarraga)
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/3ef82927376f453bbaa801a72e8d15fff19e12a1dcd8cf014d4c8fccfb4adde0/68747470733a2f2f7777772e6e61697a2e6575732f6d656469612f61737365745f7075626c6963732f7265736f75726365732f3030302f3730332f3634322f61727469636c655f6d61696e5f6c616e6473636170652f4f6d612e6a7067" />
-</p>
-
 
 <!--
 **Julenasti/Julenasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
