@@ -10,6 +10,9 @@ I believe that knowledge and science should be open to everyone and approached s
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/J_astigarraga.svg?style=social&label=%20%40J_astigarraga)](https://twitter.com/J_astigarraga)
 
+![WhatsApp Image 2024-06-13 at 20 06 45](https://github.com/Julenasti/Julenasti/assets/36412735/ed088d59-3ea3-486d-a25e-079c1798dc08)
+
+
 <!--
 **Julenasti/Julenasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
