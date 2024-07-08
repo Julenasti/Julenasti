@@ -7,6 +7,7 @@ I believe that knowledge and science should be open to everyone and approached s
 - Download climate data from [easyclimate](https://github.com/VeruGHub/easyclimate)
 - Understand [Git and GitHub](https://github.com/Julenasti/intro_git-github)
 - Learn about [Functional Programming](https://github.com/Julenasti/intro_prog_fun)
+- Publications: https://www.researchgate.net/profile/Julen-Astigarraga
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/J_astigarraga.svg?style=social&label=%20%40J_astigarraga)](https://twitter.com/J_astigarraga)
 
