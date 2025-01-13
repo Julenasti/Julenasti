@@ -10,7 +10,7 @@ I believe that knowledge and science should be open to everyone and approached s
 - Download climate data from [easyclimate](https://github.com/VeruGHub/easyclimate)
 - Publications: https://www.researchgate.net/profile/Julen-Astigarraga
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/J_astigarraga.svg?style=social&label=%20%40J_astigarraga)](https://twitter.com/J_astigarraga)
+🦋 https://bsky.app/profile/julenastigarraga.bsky.social
 
 <img src="https://github.com/Julenasti/Julenasti/assets/36412735/e90131de-a130-4790-aab6-de0a45f6e6a0" width="1000">
 
