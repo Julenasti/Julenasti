@@ -7,8 +7,8 @@ I believe that knowledge and science should be open to everyone and approached s
 - Understand [Git and GitHub](https://github.com/Julenasti/intro_git-github)
 - Learn about [Functional Programming](https://github.com/Julenasti/intro_prog_fun)
 - Discover the potential of [Data Science in R](https://github.com/DatSciR/ciencia_datos)
-- Download climate data from [easyclimate](https://github.com/VeruGHub/easyclimate)
-- Publications: https://www.researchgate.net/profile/Julen-Astigarraga
+- Check out some software I have contributed to: [easyclimate](https://github.com/VeruGHub/easyclimate), [BlueCarbon](https://github.com/EcologyR/BlueCarbon)
+- View my publications on https://www.researchgate.net/profile/Julen-Astigarraga
 
 <img src="https://github.com/Julenasti/Julenasti/assets/36412735/e90131de-a130-4790-aab6-de0a45f6e6a0" width="1000">
 
